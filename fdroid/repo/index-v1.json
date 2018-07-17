@@ -1,14 +1,13 @@
 {
   "repo": {
-    "timestamp": 1531863012601,
+    "timestamp": 1531866627279,
     "version": 18,
     "name": "Trink",
     "icon": "default-repo-icon.png",
-    "address": "https://s3.amazonaws.com/trink-app/fdroid/repo",
+    "address": "https://raw.githubusercontent.com/wolfskaempf/trink-f-droid/master/fdroid/repo",
     "description": "Easily track your water consumption",
     "mirrors": [
-      "http://localhost/repo",
-      "https://s3.amazonaws.com/trink-app/fdroid/repo/repo"
+      "https://raw.githubusercontent.com/wolfskaempf/trink-f-droid/master/fdroid/repo/repo"
     ]
   },
   "requests": {
