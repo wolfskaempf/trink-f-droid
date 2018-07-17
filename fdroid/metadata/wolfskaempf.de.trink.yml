@@ -1,0 +1,10 @@
+AuthorName: 'Tom Wolfskämpf'
+Categories:
+- fdroid
+- Health
+CurrentVersionCode: 2147483647
+IssueTracker: 'https://github.com/wolfskaempf/Trink/issues'
+Name: Trink
+SourceCode: 'https://github.com/wolfskaempf/Trink'
+Summary: 'Easily keep track of your daily water intake'
+WebSite: 'https://github.com/wolfskaempf/Trink'
