@@ -1,0 +1,50 @@
+{
+  "repo": {
+    "timestamp": 1531863012601,
+    "version": 18,
+    "name": "Trink",
+    "icon": "default-repo-icon.png",
+    "address": "https://s3.amazonaws.com/trink-app/fdroid/repo",
+    "description": "Easily track your water consumption",
+    "mirrors": [
+      "http://localhost/repo",
+      "https://s3.amazonaws.com/trink-app/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "authorName": "Tom Wolfsk\u00e4mpf",
+      "categories": [
+        "Sports & Health"
+      ],
+      "suggestedVersionCode": "1",
+      "license": "Unknown",
+      "name": "Trink",
+      "added": 1531860819582,
+      "icon": "wolfskaempf.de.trink.1.png",
+      "packageName": "wolfskaempf.de.trink",
+      "lastUpdated": 1531860823896
+    }
+  ],
+  "packages": {
+    "wolfskaempf.de.trink": [
+      {
+        "added": 1531860823896,
+        "apkName": "app-release.apk",
+        "hash": "a0f6a97f44b829ec5932497a60abeb732bb3f15057a10b609ded8c98b028907c",
+        "hashType": "sha256",
+        "minSdkVersion": "15",
+        "packageName": "wolfskaempf.de.trink",
+        "sig": "3d67a03aeaeb28904bc1f737e005bdcd",
+        "size": 1584476,
+        "targetSdkVersion": "26",
+        "versionCode": 1,
+        "versionName": "1.0"
+      }
+    ]
+  }
+}
