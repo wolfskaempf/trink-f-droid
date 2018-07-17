@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1531866627279,
+    "timestamp": 1531868692272,
     "version": 18,
     "name": "Trink",
     "icon": "default-repo-icon.png",
@@ -26,7 +26,16 @@
       "added": 1531860819582,
       "icon": "wolfskaempf.de.trink.1.png",
       "packageName": "wolfskaempf.de.trink",
-      "lastUpdated": 1531860823896
+      "lastUpdated": 1531860823896,
+      "localized": {
+        "de": {
+          "phoneScreenshots": [
+            "Screenshot_2018-07-18-01-02-20-508_wolfskaempf.de.trink.png"
+          ],
+          "summary": "Easily track your water intake",
+          "description": "<p>Trink allows you to waste no time while tracking how much water you drank today.</p>"
+        }
+      }
     }
   ],
   "packages": {
